@@ -1,4 +1,4 @@
-# Task 4 - Dashboard Design
+# PowerBI Dashboard Design
 
 ## Objective
 
